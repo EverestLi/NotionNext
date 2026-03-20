@@ -218,8 +218,8 @@ nav {
 
 a.avatar-wrapper {
   display: inline-block;
-  width: 280px;
-  height: auto;
+  width: 50px;
+  height: 50px;
   position: relative;
 }
 
@@ -228,9 +228,9 @@ a.avatar-wrapper {
 }
 
 .avatar {
-  border-radius: 0%;
+  border-radius: 50%;
   margin: 0;
-  width: 100%
+  border: 3px solid rgba(0, 116, 222, 0.5);
   
 }
 
